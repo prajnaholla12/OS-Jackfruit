@@ -1,0 +1,11 @@
+rootfs-*
+logs/
+*.log
+*.o
+*.mod
+*.ko
+*.symvers
+*.order
+*.cmd
+/tmp/mini_runtime.sock
+
